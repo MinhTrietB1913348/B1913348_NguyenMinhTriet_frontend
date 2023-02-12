@@ -51,13 +51,13 @@
 
 <script>
 import ContactCard from "@/components/ContactCard.vue";
-//import InputSearch from "@/components/InputSearch.vue";
+import InputSearch from "@/components/InputSearch.vue";
 import ContactList from "@/components/ContactList.vue";
 import ContactService from "@/services/contact.service";
 export default {
     components: {
         ContactCard,
-        //InputSearch,
+        InputSearch,
         ContactList,
     },
     data() {

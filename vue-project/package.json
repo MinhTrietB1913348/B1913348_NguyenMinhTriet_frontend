@@ -12,7 +12,9 @@
     "bootstrap": "^4.6.2",
     "jquery": "^3.6.3",
     "popper.js": "^1.16.1",
-    "vue": "^3.2.45"
+    "vee-validate": "^4.7.4",
+    "vue": "^3.2.45",
+    "yup": "^1.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.0.0",
